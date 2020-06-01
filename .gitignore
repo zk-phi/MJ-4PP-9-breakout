@@ -4,3 +4,6 @@
 *.kicad_pcb-bak
 *.bak
 gerber-elecrow/
+gerber/
+gerber-elecrow.zip
+gerber.zip
